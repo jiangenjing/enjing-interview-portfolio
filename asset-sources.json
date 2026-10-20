@@ -93,5 +93,10 @@
     "file": "assets/research-pv.svg",
     "source": "按本次简历与关联仓库重绘",
     "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/favicon.svg",
+    "type": "作品集字母标识",
+    "source": "本页面绘制"
   }
 ]
