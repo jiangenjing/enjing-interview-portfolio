@@ -1,0 +1,97 @@
+[
+  {
+    "file": "assets/ontocare-original-architecture.png",
+    "source": "https://github.com/jiangenjing/anker-OntoCare/blob/main/OntoCare/docs/assets/ontocare-technical-architecture.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/ontocare-customer.png",
+    "source": "https://github.com/jiangenjing/anker-OntoCare/blob/main/OntoCare/reports/用户端产品图文卡片.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/ontocare-analytics.png",
+    "source": "https://github.com/jiangenjing/anker-OntoCare/blob/main/OntoCare/reports/归因看板预览.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/ontocare-evaluation.png",
+    "source": "https://github.com/jiangenjing/anker-OntoCare/blob/main/OntoCare/benchmark/评测可视化.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/shell-home.png",
+    "source": "https://github.com/jiangenjing/shell-hangzhou-ai-energy-brain/blob/main/assets/screenshots/01-ai-home.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/shell-station.png",
+    "source": "https://github.com/jiangenjing/shell-hangzhou-ai-energy-brain/blob/main/assets/screenshots/02-station-detail.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/shell-charging.png",
+    "source": "https://github.com/jiangenjing/shell-hangzhou-ai-energy-brain/blob/main/assets/screenshots/03-smart-charging.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/shell-benefits.png",
+    "source": "https://github.com/jiangenjing/shell-hangzhou-ai-energy-brain/blob/main/assets/screenshots/04-ai-benefits.png",
+    "type": "公开仓库原始图件"
+  },
+  {
+    "file": "assets/dreame-haptic-ring.png",
+    "source": "https://jiangenjing.github.io/dreame-gtm-portfolio/assets/dreame-haptic-ring.png",
+    "type": "既有实习作品集产品原图"
+  },
+  {
+    "file": "assets/dreame-glow-ring.png",
+    "source": "https://jiangenjing.github.io/dreame-gtm-portfolio/assets/dreame-glow-ring.png",
+    "type": "既有实习作品集产品原图"
+  },
+  {
+    "file": "assets/enjing-portrait.jpg",
+    "source": "用户提供的本次简历 PDF，第1页原始照片",
+    "type": "用户原图"
+  },
+  {
+    "file": "assets/research-storage.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/deepresearch-flow.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/dreame-flow.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/ontocare-flow.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/shell-flow.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/research-fatigue.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/thesis-flow.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  },
+  {
+    "file": "assets/research-pv.svg",
+    "source": "按本次简历与关联仓库重绘",
+    "type": "方法／架构 SVG 示意"
+  }
+]
