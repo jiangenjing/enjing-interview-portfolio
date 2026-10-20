@@ -98,5 +98,11 @@
     "file": "assets/favicon.svg",
     "type": "作品集字母标识",
     "source": "本页面绘制"
+  },
+  {
+    "file": "assets/dreame-workbench-preview.jpg",
+    "type": "既有实习作品集页面截图",
+    "source": "https://jiangenjing.github.io/dreame-gtm-portfolio/",
+    "captured": "2026-10-20"
   }
 ]
